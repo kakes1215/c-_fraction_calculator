@@ -1,0 +1,20 @@
+C:\Users\kakes1215\Desktop\Proj9_Part2\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\kakes1215\Desktop\Proj9_Part2\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\kakes1215\Desktop\Proj9_Part2\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\kakes1215\Desktop\Proj9_Part2\obj\Debug\Proj9_Part2.csprojResolveAssemblyReference.cache
+C:\Users\kakes1215\Desktop\Proj9_Part2\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\kakes1215\Desktop\Proj9_Part2\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\kakes1215\Desktop\Proj9_Part2\obj\Debug\Proj9_Part2.csproj.GenerateResource.cache
+C:\Users\kakes1215\Desktop\Proj9_Part2\obj\Debug\Proj9_Part2.csproj.CoreCompileInputs.cache
+C:\Users\kakes1215\Desktop\Proj9_Part2\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\kakes1215\Desktop\Proj9_Part2\obj\Debug\WindowsFormsApplication3.pdb
+D:\KSU\Spring 2018\CIS 200\Projects\Proj9\Proj9\Proj9_Part2\Proj9_Part2\bin\Debug\WindowsFormsApplication3.exe.config
+D:\KSU\Spring 2018\CIS 200\Projects\Proj9\Proj9\Proj9_Part2\Proj9_Part2\bin\Debug\WindowsFormsApplication3.exe
+D:\KSU\Spring 2018\CIS 200\Projects\Proj9\Proj9\Proj9_Part2\Proj9_Part2\bin\Debug\WindowsFormsApplication3.pdb
+D:\KSU\Spring 2018\CIS 200\Projects\Proj9\Proj9\Proj9_Part2\Proj9_Part2\obj\Debug\Proj9_Part2.csprojAssemblyReference.cache
+D:\KSU\Spring 2018\CIS 200\Projects\Proj9\Proj9\Proj9_Part2\Proj9_Part2\obj\Debug\WindowsFormsApplication3.Form1.resources
+D:\KSU\Spring 2018\CIS 200\Projects\Proj9\Proj9\Proj9_Part2\Proj9_Part2\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\KSU\Spring 2018\CIS 200\Projects\Proj9\Proj9\Proj9_Part2\Proj9_Part2\obj\Debug\Proj9_Part2.csproj.GenerateResource.cache
+D:\KSU\Spring 2018\CIS 200\Projects\Proj9\Proj9\Proj9_Part2\Proj9_Part2\obj\Debug\Proj9_Part2.csproj.CoreCompileInputs.cache
+D:\KSU\Spring 2018\CIS 200\Projects\Proj9\Proj9\Proj9_Part2\Proj9_Part2\obj\Debug\WindowsFormsApplication3.exe
+D:\KSU\Spring 2018\CIS 200\Projects\Proj9\Proj9\Proj9_Part2\Proj9_Part2\obj\Debug\WindowsFormsApplication3.pdb
